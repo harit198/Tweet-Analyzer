@@ -1,6 +1,6 @@
 # Tweet-Analyzer
 
-Web App Link :https://tweet-analyzer-tool.herokuapp.com/
+Web App Link : https://tweet-analyzer-tool.herokuapp.com/
 
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
