@@ -32,7 +32,7 @@ Requirements.txt: Requirement file
 
 setup.sh : predefined file for streamlite on heroku
 
-This app is created on a tool called Streamlit ,you can install it by:
+This app is created on a tool called Streamlit which saves you from the headache of front-end devlopment ,you can install it by:
 
 pip install streamlit
 
