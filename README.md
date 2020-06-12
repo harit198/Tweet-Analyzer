@@ -31,3 +31,9 @@ Twitter Data : File created after every query on the web app
 Requirements.txt: Requirement file
 
 setup.sh : predefined file for streamlite on heroku
+
+This app is created on a tool called Streamlit ,you can install it by:
+
+pip install streamlit
+
+& to run it on local host : streamlit run myfile.py
