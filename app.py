@@ -55,7 +55,7 @@ api = tweepy.API(authenticate, wait_on_rate_limit = True)
 def app():
 
 
-	st.title("Tweet Analyzer 🔥")
+	st.title("🅣🅦🅔🅔🅣  🅐🅝🅐🅛🅨🅩🅔🅡")
 
 
 	activities=["Tweet Analyzer","Generate Twitter Data"]
